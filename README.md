@@ -9,3 +9,5 @@ Aprendemos sobre lógica de programação, introduções básicas e conceitos co
 ## Repositório
 
 Esse repositório foi criado para versionar os desafios e exercícios práticos que são propostos durante a formação DB1 Start.
+
+![image](https://github.com/patriciasoaresrodrigues/db1-start/assets/98783551/e18e1e5b-6292-4591-a7dc-e07fd82e670b)
